@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dattakumar Malkhede
 - 👀 I’m interested in Embedded Systems, AI&ML
-- 🌱 I’m currently studying M.tech in Embedded system from VIT , Vellore
+- 🌱 I’m currently pursuing M.tech in Embedded system from VIT , Vellore
 - 📫 How to reach me dattakumarmalkhede@gmail.com
 
 <!---
