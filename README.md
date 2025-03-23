@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dattakumar Malkhede
-- 👀 I’m interested in Embedded Systems, AI&ML
-- 🌱 I’m currently pursuing M.tech in Embedded systems from VIT , Vellore
+- 👀 I’m interested in Embedded Systems, Software & Firmware Development and AI/ML
+- 💼 I'am working as Embedded Software Enginner at MediaTek, Bangalore
+- 🌱 I’m completed my M.tech in Embedded systems from VIT , Vellore
 - 📫 How to reach me dattakumarmalkhede@gmail.com
 
 <!---
